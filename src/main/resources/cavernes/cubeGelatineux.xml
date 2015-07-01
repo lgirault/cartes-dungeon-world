@@ -1,0 +1,27 @@
+<monster>
+    <name>Cube Gélatineux</name>
+    <setting>Habitants des Cavernes</setting>
+    <tagList>
+        <tag>Solitaire</tag>
+        <tag>Grand</tag>
+        <tag>Furtif</tag>
+        <tag>Informe</tag>
+    </tagList>
+    <attack>Engloutissement</attack>
+    <damage>d10+1 dégâts, ignore l'armure</damage>
+    <hp>20</hp>
+    <armor>1</armor>
+    <attackTagList>
+        <tag>Contact</tag>
+    </attackTagList>
+    <qualityList>
+        <quality>Transparent</quality>
+    </qualityList>
+    <description>Combien d'aventuriers ont eu ces dernières paroles : "Étrange, ce tunnel semble plus propre que les autres... " ? Beaucoup. La faute à ce danger transparent. Une grande masse informe et acide qui s'élargit pour remplir une petite salle ou un corridor, et qui glisse, lentement, en mangeant tout sur son chemin. Cela ne dissout pas la pierre ou le métal, aussi les voit-on flotter dans sa masse gélatineuse. Beurk.
+    </description>
+    <instinct>Nettoyer</instinct>
+    <moveList>
+        <move>Emplir un espace apparemment vide</move>
+        <move>Dissoudre</move>
+    </moveList>
+</monster>

@@ -1,0 +1,27 @@
+<monster>
+    <name>Goliath</name>
+    <setting>Habitants des Cavernes</setting>
+    <tagList>
+        <tag>Groupe</tag>
+        <tag>Énorme</tag>
+        <tag>Organisé</tag>
+        <tag>Intelligent</tag>
+    </tagList>
+    <attack>Massue</attack>
+    <damage>d8+7 dégâts</damage>
+    <hp>14</hp>
+    <armor>1</armor>
+    <attackTagList>
+        <tag>Allonge</tag>
+        <tag>Puissant</tag>
+    </attackTagList>
+    <qualityList>
+        <quality>Excavation</quality>
+    </qualityList>
+    <description>Ils habitent sous terre car la surface leur est hostile. Dans les âges anciens, ils furent une race de puissants titans immortels fuyant les plaines et les montagnes, chassés par les hommes et leurs héros. Ils attendent leur heure dans l'obscurité, leur haine et leur colère attisées par les lacs de lave souterrains. On dit qu'un tremblement de terre est le cri de naissance d'un Goliath. Un jour, ils reprendront ce qui est leur.</description>
+    <instinct>Reprendre</instinct>
+    <moveList>
+        <move>Secouer la terre</move>
+        <move>Battre en retraite pour revenir plus fort</move>
+    </moveList>
+</monster>

@@ -1,0 +1,23 @@
+<monster>
+    <name>Rat des Cavernes</name>
+    <setting>Habitants des Cavernes</setting>
+    <tagList>
+        <tag>Horde</tag>
+        <tag>Petit</tag>
+    </tagList>
+    <attack>Ronger</attack>
+    <damage>d6 dégâts, 1 perforant</damage>
+    <hp>7</hp>
+    <armor>1</armor>
+    <attackTagList>
+        <tag>Proche</tag>
+        <tag>Dévastateur</tag>
+    </attackTagList>
+    <description>Qui n'a jamais vu de rats ? C'est ça, mais en plus méchant, plus gros et vous ne l'effrayez pas. Peut-être est-ce le cousin de celui que vous avez piégé ou de celui que vous avez transpercé d'un couteau dans cette taverne crasseuse de Darrow. Peut-être cherche-t-il à venger ses semblables ?
+    </description>
+    <instinct>Dévorer</instinct>
+    <moveList>
+        <move>Grouiller</move>
+        <move>Dechiqueter quelque chose (ou quelqu'un)</move>
+    </moveList>
+</monster>

@@ -1,0 +1,27 @@
+<monster>
+    <name>Gargouille</name>
+    <setting>Habitants des Cavernes</setting>
+    <tagList>
+        <tag>Horde</tag>
+        <tag>Furtif</tag>
+        <tag>Thésauriseur</tag>
+    </tagList>
+    <attack>Griffes</attack>
+    <damage>d6 dégâts</damage>
+    <hp>3</hp>
+    <armor>2</armor>
+    <attackTagList>
+        <tag>Proche</tag>
+    </attackTagList>
+    <qualityList>
+        <quality>Ailé</quality>
+    </qualityList>
+    <description>C'est triste, vraiment. Des gardiens créés par les mages de jadis, désormais dépourvus de châteaux à surveiller. La tâche sacrée de leurs ancêtres, inscrite dans leur sang, les pousse à trouver un endroit, souvent une ruine, mais parfois une grotte, une colline, une falaise en montagne, et à y monter la garde, comme si leurs maîtres y vivaient encore. Cela dit, les gargouilles sont notoirement connues pour mettre à jour les richesses enterrées. Trouvez l'un de ces reptiles ailés et vous dégotterez un trésor non loin. Soyez juste prudent, elles sont difficiles à détecter, et se déplacent en meute.
+    </description>
+    <instinct>Garder</instinct>
+    <moveList>
+        <move>Attaquer par surprise</move>
+        <move>Emporter dans les airs</move>
+        <move>Se mêler à la pierre</move>
+    </moveList>
+</monster>

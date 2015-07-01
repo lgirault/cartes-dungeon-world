@@ -1,0 +1,27 @@
+<monster>
+    <name>Ostyugh</name>
+    <setting>Habitants des Cavernes</setting>
+    <tagList>
+        <tag>Solitaire</tag>
+        <tag>Grand</tag>
+    </tagList>
+    <attack>Tentacules</attack>
+    <damage>d10+3 dégâts</damage>
+    <hp>20</hp>
+    <armor>1</armor>
+    <attackTagList>
+        <tag>Proche</tag>
+        <tag>Allonge</tag>
+        <tag>Puissant</tag>
+    </attackTagList>
+    <qualityList>
+        <quality>Fièvre de la fange</quality>
+    </qualityList>
+    <description>Le brame d'un Otyugh est un horrible cri tonitruant, à mi-chemin entre l'éléphant mourant et le vautour impatient. L'Otyugh passe la majeure partie de son temps dans l'eau croupie et préfère les ordures à toute autre nourriture. Il devient ainsi gras et fort, grâce aux déchets des orcs, des gobelins et des autres races souterraines. Approchez-vous et un de ses tentacules barbelés vous entraînera dans sa gueule humide et garnie de dents effilées. Si vous vous en échappez vivant, voyez vite un médecin, ou votre victoire tournera court.
+    </description>
+    <instinct>Souiller</instinct>
+    <moveList>
+        <move>Infecter avec la fièvre de la fange</move>
+        <move>Projeter quelqu'un ou quelque chose</move>
+    </moveList>
+</monster>

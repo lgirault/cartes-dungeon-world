@@ -1,0 +1,22 @@
+<monster>
+    <name>Troglodyte</name>
+    <setting>Habitants des Cavernes</setting>
+    <tagList>
+        <tag>Groupe</tag>
+        <tag>Organisé</tag>
+    </tagList>
+    <attack>Massue</attack>
+    <damage>d8 dégâts</damage>
+    <hp>10</hp>
+    <armor>1</armor>
+    <attackTagList>
+        <tag>Proche</tag>
+    </attackTagList>
+    <description>Oubliés depuis des lustres, les derniers vestiges de nos ancêtres errent dans les grottes des régions sauvages. Repoussés par nos cités et nos villages, par nos épées d'acier et notre feu, ces hommes-singes mangent la viande crue avec leurs mains griffues et leurs chicots. Ils frappent les villages frontaliers en brandissant leurs massues, surgissant en nombre pour s'emparer du bétail, d'outils et de pauvres prisonniers qu'ils traînent dans les collines. Connue pour sa brutalité et sa puanteur, c'est une race ancienne et mourante dont nous oublierons bientôt l'existence.
+    </description>
+    <instinct>S'attaquer à la civilisation</instinct>
+    <moveList>
+        <move>Piller et battre en retraite</move>
+        <move>Utiliser des armes ou de la magie récupérées</move>
+    </moveList>
+</monster>

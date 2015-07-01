@@ -1,0 +1,24 @@
+<monster>
+    <name>Manteleur</name>
+    <setting>Habitants des Cavernes</setting>
+    <tagList>
+        <tag>Solitaire</tag>
+        <tag>Furtif</tag>
+    </tagList>
+    <attack>Constriction</attack>
+    <damage>d10 dégâts, ignore l'armure</damage>
+    <hp>12</hp>
+    <armor>1</armor>
+    <attackTagList>
+        <tag>Proche</tag>
+    </attackTagList>
+    <qualityList>
+        <quality>Ressemble à un manteau</quality>
+    </qualityList>
+    <description>Ne mets pas ce manteau, Gareth. Ne fais pas ça. Tu ne sais pas d'où ça vient. Je te le dis, ça ne me dis rien qui vaille. Regarde ! Ça bouge ! Je ne suis pas fou, Gareth, ça a bougé ! Ne le fais pas ! Non ! GARETH !
+    </description>
+    <instinct>Engloutir</instinct>
+    <moveList>
+        <move>Engloutir une victime sans méfiance</move>
+    </moveList>
+</monster>

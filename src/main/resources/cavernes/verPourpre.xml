@@ -1,0 +1,26 @@
+<monster>
+    <name>Ver Pourpre</name>
+    <setting>Habitants des Cavernes</setting>
+    <tagList>
+        <tag>Solitaire</tag>
+        <tag>Énorme</tag>
+    </tagList>
+    <attack>Morsure</attack>
+    <damage>d10+5 dégâts</damage>
+    <hp>20</hp>
+    <armor>2</armor>
+    <attackTagList>
+        <tag>Allonge</tag>
+        <tag>Puissant</tag>
+    </attackTagList>
+    <qualityList>
+        <quality>Forage</quality>
+    </qualityList>
+    <description>Iä! Iä! Le Ver Pourpre ! Bénie soit sa sainte bave ! Indignes, nous marchons dans ses tunnels grandioses. Nous ne sommes que des ombres de sa gloire violette. Nous, simples acolytes, espérons un jour recevoir de nouveau le magnifique baiser de sa gueule cerclée de dents. Qu'il nous dévore ! Qu'il dévore nos maisons, nos villages et nous emporte. Iä ! Iä ! Le Ver Pourpre !
+    </description>
+    <instinct>Dévorer</instinct>
+    <moveList>
+        <move>Avaler entièrement</move>
+        <move>Creuser un tunnel à travers la pierre et la terre</move>
+    </moveList>
+</monster>

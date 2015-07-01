@@ -1,0 +1,26 @@
+<monster>
+    <name>Scarabée Incendiaire</name>
+    <setting>Habitants des Cavernes</setting>
+    <tagList>
+        <tag>Horde</tag>
+        <tag>Petit</tag>
+    </tagList>
+    <attack>Flammes</attack>
+    <damage>d6 dégâts, ignore l'armure</damage>
+    <hp>3</hp>
+    <armor>3</armor>
+    <attackTagList>
+        <tag>Proche</tag>
+    </attackTagList>
+    <qualityList>
+        <quality>Rempli de flammes</quality>
+    </qualityList>
+    <description> <i>Scarabaeus pyractomena</i> ! Quelle merveilleuse créature ! Voyez-vous comme sa carapace scintille à la lueur de nos torches ? Ne vous approchez pas trop, ils ont leur caractère, vous savez ! Le feu dans leurs entrailles n'est pas juste métaphorique. Regardez, j'aiguillonne la bête. Ah ! Un jet de flammes ! Inattendu, n'est-ce pas ? Une seule de ces créatures, venue du dessous, peut être une nuisance infernale pour une ferme ou un village. Tout un essaim ? On parle alors d'une conflagration de scarabées incendiaires.
+    </description>
+    <instinct>Enflammer</instinct>
+    <moveList>
+        <move>Creuser le sol</move>
+        <move>Jaillir de la terre</move>
+        <move> Projeter des flammes devant soi</move>
+    </moveList>
+</monster>

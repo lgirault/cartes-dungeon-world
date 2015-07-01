@@ -1,0 +1,27 @@
+<monster>
+    <name>Étrangleur</name>
+    <setting>Habitants des Cavernes</setting>
+    <tagList>
+        <tag>Solitaire</tag>
+        <tag>Furtif</tag>
+        <tag>Intelligent</tag>
+    </tagList>
+    <attack>Étrangler</attack>
+    <damage>d10 dégâts</damage>
+    <hp>15</hp>
+    <armor>2</armor>
+    <attackTagList>
+        <tag>Proche</tag>
+        <tag>Allonge</tag>
+    </attackTagList>
+    <qualityList>
+        <quality>Flexible</quality>
+    </qualityList>
+    <description>Certains disent que les étrangleurs descendent de la famille d'un sorcier cruel qui les obligea à vivre sous terre. On dit que ses expériences l'amenèrent à craindre le soleil et qu'il s'enfonça dans la non-vie, entraînant ses proches avec lui. D'une certaine façon, ces créatures ressemblent aux hommes. Une tête, quatre membres, et tout le reste. Mais leur peau est humide et caoutchouteuse, leurs bras longs et leurs doigts avides. Comme on peut s'y attendre, ils détestent toute vie qui porte la marque du soleil. Difficile de surmonter cette jalousie, instillée en eux depuis longtemps.
+    </description>
+    <instinct>Priver de lumière</instinct>
+    <moveList>
+        <move>Maintenir quelqu'un pour l'étouffer</move>
+        <move>Projeter une créature</move>
+    </moveList>
+</monster>

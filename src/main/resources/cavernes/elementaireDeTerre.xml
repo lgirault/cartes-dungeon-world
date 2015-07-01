@@ -1,0 +1,26 @@
+<monster>
+    <name>Élémentaire de Terre</name>
+    <setting>Habitants des Cavernes</setting>
+    <tagList>
+        <tag>Solitaire</tag>
+        <tag>Énorme</tag>
+    </tagList>
+    <attack>Écrasement</attack>
+    <damage>d10+5 dégâts</damage>
+    <hp>27</hp>
+    <armor>4</armor>
+    <attackTagList>
+        <tag>Allonge</tag>
+        <tag>Puissant</tag>
+    </attackTagList>
+    <qualityList>
+        <quality>Fait de pierre</quality>
+    </qualityList>
+    <description>Notre chaman dit que toutes les choses du monde ont un esprit. Les pierres, les arbres, un ruisseau. Après avoir vu la terre s'animer sous mes pieds et des poings de pierre battre à mort mes amis, je crois ce vieux fou. Ce que j'ai vu était immense, grand comme une maison ! Cela a surgi de nulle part, tel un éboulement, avec une voix d'avalanche. Depuis, je fais preuve de respect. Vraiment.
+    </description>
+    <instinct>Montrer la force de la terre</instinct>
+    <moveList>
+        <move>Transformer le sol en arme</move>
+        <move>Se fondre dans la pierre</move>
+    </moveList>
+</monster>

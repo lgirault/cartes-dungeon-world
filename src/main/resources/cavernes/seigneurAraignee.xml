@@ -1,0 +1,28 @@
+<monster>
+    <name>Seigneur Araignée</name>
+    <setting>Habitants des Cavernes</setting>
+    <tagList>
+        <tag>Solitaire</tag>
+        <tag>Grand</tag>
+        <tag>Fourbe</tag>
+        <tag>Intelligent</tag>
+    </tagList>
+    <attack>Mandibules</attack>
+    <damage>d8+4 dégâts</damage>
+    <hp>16</hp>
+    <armor>3</armor>
+    <attackTagList>
+        <tag>Proche</tag>
+        <tag>Allonge</tag>
+    </attackTagList>
+    <qualityList>
+        <quality>Creuser</quality>
+    </qualityList>
+    <description>Même les araignées ont leurs dieux qu'elles prient, les pattes jointes, au cœur de leurs toiles.
+    </description>
+    <instinct>Tisser des toiles (littéralement et métaphoriquement)</instinct>
+    <moveList>
+        <move>Prendre dans une toile</move>
+        <move>Ourdir un complot</move>
+    </moveList>
+</monster>

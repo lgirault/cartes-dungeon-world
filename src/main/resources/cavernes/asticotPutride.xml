@@ -1,0 +1,26 @@
+<monster>
+    <name>Asticot Putride</name>
+    <setting>Habitants des Cavernes</setting>
+    <tagList>
+        <tag>Horde</tag>
+        <tag>Minuscule</tag>
+    </tagList>
+    <attack>Creuser</attack>
+    <damage>d6-2 dégâts</damage>
+    <hp>3</hp>
+    <armor>0</armor>
+    <attackTagList>
+        <tag>Contact</tag>
+    </attackTagList>
+    <qualityList>
+        <quality> Creuser dans la chair</quality>
+    </qualityList>
+    <description>Ils vivent dans votre peau. Ou dans vos organes. Ou vos globes oculaires. Ils s'y développent, puis s'en extirpent d'une manière sanglante et horrible.
+    </description>
+    <instinct>Infecter</instinct>
+    <moveList>
+        <move>Creuser dans la chair</move>
+        <move>Disséminer des œufs</move>
+        <move>Jaillir soudainement d'une créature infectée</move>
+    </moveList>
+</monster>

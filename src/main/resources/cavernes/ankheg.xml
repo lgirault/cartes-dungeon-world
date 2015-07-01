@@ -1,0 +1,27 @@
+<monster>
+    <name>Ankheg</name>
+    <setting>Habitants des Cavernes</setting>
+    <tagList>
+        <tag>Groupe</tag>
+        <tag>Grand</tag>
+    </tagList>
+    <attack>Morsure</attack>
+    <damage>d8+1 dégâts</damage>
+    <hp>10</hp>
+    <armor>3</armor>
+    <attackTagList>
+        <tag>Proche</tag>
+        <tag>Allonge</tag>
+    </attackTagList>
+    <qualityList>
+        <quality>Excavation</quality>
+    </qualityList>
+    <description>Une peau comme une armure de plates et depuissantes mandibules sont déjà un problème en soi. Un estomac rempli d'un acide qui peut percerun mur de pierre n'arrange pas les choses. Ce serait déjà coton si cela avait la taille d'un insecte, mais ces bestioles ont le culot d'être aussi grandes qu'un cheval. Ce n'est pas naturel ! Heureusement qu'ils sont sédentaires, me direz-vous. On voit que vous n'avez pas un Ankheg qui crèche sous votre champ de maïs...
+    </description>
+    <instinct>Miner</instinct>
+    <moveList>
+        <move>Miner le sol</move>
+        <move>Jaillir de la terre</move>
+        <move>Cracher un acide qui ronge chair et métal</move>
+    </moveList>
+</monster>

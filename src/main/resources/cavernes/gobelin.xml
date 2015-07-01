@@ -1,0 +1,26 @@
+<monster>
+    <name>Gobelin</name>
+    <setting>Habitants des Cavernes</setting>
+    <tagList>
+        <tag>Horde</tag>
+        <tag>Petit</tag>
+        <tag>Intelligent</tag>
+        <tag>Organisé</tag>
+    </tagList>
+    <attack>Épieu</attack>
+    <damage>d6 dégâts</damage>
+    <hp>3</hp>
+    <armor>1</armor>
+    <attackTagList>
+        <tag>Proche</tag>
+        <tag>Allonge</tag>
+    </attackTagList>
+    <description>Personne ne semble savoir d'où ils viennent. Les Elfes disent que c'est de la faute des nains, qui les ont extirpés d'une cache sous la terre. Les Nains disent que ce sont de méchants enfants d'elfes, enlevés à la naissance et élevés dans l'obscurité. La vérité, c'est que les Gobelins ont toujours été là, et qu'ils continueront d'exister bien après la chute et la disparition des races civilisées. Les Gobelins ne meurent jamais. Ils sont trop nombreux pour ça.
+    </description>
+    <instinct>Se multiplier</instinct>
+    <moveList>
+        <move>Charger !</move>
+        <move>Appeler davantage de gobelins</move>
+        <move>Battre en retraite et revenir (bien) plus nombreux</move>
+    </moveList>
+</monster>

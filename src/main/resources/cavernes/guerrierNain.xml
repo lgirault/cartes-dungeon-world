@@ -1,0 +1,22 @@
+<monster>
+    <name>Guerrier Nain</name>
+    <setting>Habitants des Cavernes</setting>
+    <tagList>
+        <tag>Horde</tag>
+        <tag>Organisé</tag>
+    </tagList>
+    <attack>Hache</attack>
+    <damage>d6 dégâts</damage>
+    <hp>7</hp>
+    <armor>2</armor>
+    <attackTagList>
+        <tag>Proche</tag>
+    </attackTagList>
+    <description>De tout temps, les hommes ont cru que tous les nains étaient des mâles. Une race de guerriers fiers et stoïques, portant une hache et une armure de plates. De gros nains barbus assoiffés de batailles qui les repoussaient férocement, encore et encore, en dehors de leurs tunnels de mines. Cela démontre le peu de connaissance des hommes sur les races anciennes. Ces gens ne sont qu'une avant-garde, accomplissant bravement leur devoir pour protéger les richesses des royaumes nains. Gagnez leur confiance et vous aurez des alliés pour la vie. Provoquez leur colère et vous n'aurez pas le temps de le regretter.
+    </description>
+    <instinct>Défendre</instinct>
+    <moveList>
+        <move>Les repousser</move>
+        <move>Appeler des renforts</move>
+    </moveList>
+</monster>

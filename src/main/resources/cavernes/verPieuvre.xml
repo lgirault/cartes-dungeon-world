@@ -1,0 +1,25 @@
+<monster>
+    <name>Ver-Pieuvre</name>
+    <setting>Habitants des Cavernes</setting>
+    <tagList>
+        <tag>Horde</tag>
+        <tag>Petit</tag>
+    </tagList>
+    <attack>Mâcher</attack>
+    <damage>d6 dégâts</damage>
+    <hp>3</hp>
+    <armor>1</armor>
+    <attackTagList>
+        <tag>Proche</tag>
+    </attackTagList>
+    <qualityList>
+        <quality>Amphibie</quality>
+        <quality>Tantacules paralysants</quality>
+    </qualityList>
+    <description>Les dieux qui ont créé cette chose ont fait une sale blague aux peuples civilisés. La gueule du Ver-Pieuvre est couverte d'horribles tentacules grouillants, qui, s'ils vous touchent, vous donnent la sensation d'avoir été frappé par la foudre. Ces monstres vous paralysent puis vous mâchent lentement alors que vous êtes sans défense. Mieux vaut ne pas en arriver là.
+    </description>
+    <instinct>Manger</instinct>
+    <moveList>
+        <move>Toucher pour paralyser</move>
+    </moveList>
+</monster>

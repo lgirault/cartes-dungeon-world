@@ -1,0 +1,29 @@
+<monster>
+    <name>Enlaceur</name>
+    <setting>Habitants des Cavernes</setting>
+    <tagList>
+        <tag>Solitaire</tag>
+        <tag>Grand</tag>
+        <tag>Furtif</tag>
+        <tag>Intelligent</tag>
+    </tagList>
+    <attack>Morsure</attack>
+    <damage>d10+1 dégâts</damage>
+    <hp>16</hp>
+    <armor>1</armor>
+    <attackTagList>
+        <tag>Proche</tag>
+        <tag>Allonge</tag>
+    </attackTagList>
+    <qualityList>
+        <quality>Chair semblable à la pierre</quality>
+    </qualityList>
+    <description>Le hasard de l'évolution a créé ce prédateur rusé et souterrain. Ressemblant à une formation rocheuse (souvent une stalactite ou stalagmite) l'Enlaceur attend le passage de sa proie. Quand elle arrive, que ce soit un rat, un gobelin ou un aventurier imprudent, une masse de fins tentacules jaillit de sa peau. En un clin d'œil, la proie étourdie se retrouve dans sa bouche. Sacrément efficace pour une chose qui ressemble à un rocher.
+    </description>
+    <instinct>Surprendre</instinct>
+    <moveList>
+        <move>Piéger ceux qui ne se méfient pas</move>
+        <move>Désarmer un ennemi</move>
+        <move>Mâcher quelqu'un</move>
+    </moveList>
+</monster>

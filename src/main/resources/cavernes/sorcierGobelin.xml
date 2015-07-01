@@ -1,0 +1,26 @@
+<monster>
+    <name>Sorcier Gobelin</name>
+    <setting>Habitants des Cavernes</setting>
+    <tagList>
+        <tag>Solitaire</tag>
+        <tag>Petit</tag>
+        <tag>Magique</tag>
+        <tag>Intelligent</tag>
+        <tag>Organisé</tag>
+    </tagList>
+    <attack>Orbe d'acide</attack>
+    <damage>d10+1 dégâts, ignore l'armure</damage>
+    <hp>12</hp>
+    <armor>0</armor>
+    <attackTagList>
+        <tag>Proche</tag>
+        <tag>Longue</tag>
+    </attackTagList>
+    <description>Mon dieu, qui leur a appris la magie ?</description>
+    <instinct> Utiliser une puissance au-delà de ses capacités</instinct>
+    <moveList>
+        <move>Lancer un sort pas du tout maîtrisé</move>
+        <move>Répandre un chaos magique</move>
+        <move>Utiliser d'autres gobelins comme boucliers</move>
+    </moveList>
+</monster>
