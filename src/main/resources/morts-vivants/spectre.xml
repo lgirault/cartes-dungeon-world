@@ -1,0 +1,25 @@
+<monster>
+    <name>Spectre</name>
+    <setting>Légion des Morts-Vivants</setting>
+    <tagList>
+        <tag>Solitaire</tag>
+        <tag>Thésauriseur</tag>
+    </tagList>
+    <attack>Toucher flétrissant</attack>
+    <damage>d10 dégâts</damage>
+    <hp>12</hp>
+    <armor>0</armor>
+    <attackTagList>
+        <tag>Proche</tag>
+    </attackTagList>
+    <qualityList>
+        <quality>Immatériel</quality>
+    </qualityList>
+    <description>La Mort elle-même ne peut empêcher certaines personnes de conserver prise avec l'endroit qu'elles aiment par-dessus tout.
+ Le prêtre dont la dévotion pour son lieu de culte est plus grande que celle pour son Dieu. Le trésorier d'une guilde commerçante qui ne peut se défaire de son coffre-fort. Un ivrogne et sa taverne favorite. Ils font tous d'excellents spectres. Leur motivation n'est pas la faim habituelle qui pousse les morts- vivants, mais la jalousie. La peur que quelqu'un d'autre se prenne à aimer leur foyer comme eux seuls le font et les mette à la porte. Ces lieux leur appartiennent et ces esprits invisibles tueront plutôt que de laisser quelqu'un les expédier à leur repos final.</description>
+    <instinct>Chasser la vie d'un lieu</instinct>
+    <moveList>
+        <move>Tourner le lieu qu'il hante contre une créature</move>
+        <move>Donner vie à son environnement</move>
+    </moveList>
+</monster>

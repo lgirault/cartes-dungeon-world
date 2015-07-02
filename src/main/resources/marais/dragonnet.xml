@@ -1,0 +1,30 @@
+<monster>
+    <name>Dragonnet</name>
+    <setting>Habitants du Marais</setting>
+    <tagList>
+        <tag>Solitaire</tag>
+        <tag>Petit</tag>
+        <tag>Intelligent</tag>
+        <tag>Prudent</tag>
+        <tag>Thésauriseur</tag>
+    </tagList>
+    <attack>Souffle élémentaire</attack>
+    <damage>d10+2 dégâts</damage>
+    <hp>16</hp>
+    <armor>3</armor>
+    <attackTagList>
+        <tag>Proche</tag>
+        <tag>Courte</tag>
+    </attackTagList>
+    <qualityList>
+        <quality>Ailé</quality>
+        <quality>Origine élémentaire</quality>
+    </qualityList>
+    <description>Comment ? Vous pensiez qu'ils faisaient tous des kilomètres de long ? Vous n'aviez pas idée qu'on puisse en trouver d'aussi petits que ça ? C'est vrai, ils ne sont pas plus grands qu'un chiot, et pas plus intelligents qu'un singe, mais un dragonnet peut toujours cracher une boule d'un feu d'enfer, capable de vous rôtir dans votre armure et vous laisser hurlant dans la boue. Leurs écailles aussi sont moins résistantes que celles des espèces plus larges, mais peuvent tout de même dévier un coup d'épée ou une flèche mal ajustée. Rappelez-vous : La taille ne fait pas la puissance.</description>
+    <instinct>Gagner en puissance</instinct>
+    <moveList>
+        <move>Construire un repaire, base de son pouvoir</move>
+        <move>Faire jouer les relations familiales</move>
+        <move>Exiger des serments d'allégeance</move>
+    </moveList>
+</monster>

@@ -1,0 +1,21 @@
+<monster>
+    <name>Squelette</name>
+    <setting>Légion des Morts-Vivants</setting>
+    <tagList>
+        <tag>Horde</tag>
+    </tagList>
+    <attack>Coups violent</attack>
+    <damage>d6 dégâts</damage>
+    <hp>7</hp>
+    <armor>1</armor>
+    <attackTagList>
+        <tag>Proche</tag>
+    </attackTagList>
+    <description>Ces os, ces os, ces os si blancs.</description>
+    <instinct>Prendre l'apparence de la vie</instinct>
+    <moveList>
+        <move>Reproduire les gestes de leur vie passée</move>
+        <move>Éteindre la flamme de la vie</move>
+        <move>Se reconstruire à partir de multiples ossements</move>
+    </moveList>
+</monster>

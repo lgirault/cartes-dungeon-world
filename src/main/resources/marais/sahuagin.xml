@@ -1,0 +1,27 @@
+<monster>
+    <name>Sahuagin</name>
+    <setting>Habitants du Marais</setting>
+    <tagList>
+        <tag>Horde</tag>
+        <tag>Intelligent</tag>
+    </tagList>
+    <attack>Rangées de dents</attack>
+    <damage>d6+4 dégâts, 1 perforant</damage>
+    <hp>3</hp>
+    <armor>2</armor>
+    <attackTagList>
+        <tag>Proche</tag>
+        <tag>Puissant</tag>
+        <tag>Dévastateur</tag>
+    </attackTagList>
+    <qualityList>
+        <quality>Amphibie</quality>
+    </qualityList>
+    <description>La stature et l'ingéniosité d'un être humain, la voracité et les dents d'un requin. Éternellement affamées et emplies de haine, ces créatures ne s'arrêteront que lorsque toute forme de vie aura été dévorée. Impossible de les raisonner, encore moins de les contrôler ou de les rassasier. Elles sont pure faim et rage meurtrière, venues des profondeurs marines pour ravager les villes côtières et submerger les villages insulaires.</description>
+    <instinct>Répandre le sang</instinct>
+    <moveList>
+        <move>Arracher un membre d'une morsure</move>
+        <move>Lancer un javelot empoisonné</move>
+        <move>Devenir enragé à la vue du sang</move>
+    </moveList>
+</monster>

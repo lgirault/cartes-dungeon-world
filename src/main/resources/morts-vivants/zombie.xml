@@ -1,0 +1,21 @@
+<monster>
+    <name>Zombie</name>
+    <setting>Légion des Morts-Vivants</setting>
+    <tagList>
+        <tag>Horde</tag>
+    </tagList>
+    <attack>Morsure</attack>
+    <damage>d6 dégâts</damage>
+    <hp>11</hp>
+    <armor>1</armor>
+    <attackTagList>
+        <tag>Proche</tag>
+    </attackTagList>
+    <description>Quand il n'y a plus de place en enfer...</description>
+    <instinct>Cerveaaaaaauuuuuuux !!!</instinct>
+    <moveList>
+        <move>Attaquer en surnombre</move>
+        <move>Acculer</move>
+        <move>Tirer sa force des morts, créer plus de zombies</move>
+    </moveList>
+</monster>

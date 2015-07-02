@@ -1,0 +1,27 @@
+<monster>
+    <name>Fantôme</name>
+    <setting>Légion des Morts-Vivants</setting>
+    <tagList>
+        <tag>Solitaire</tag>
+        <tag>Fourbe</tag>
+        <tag>Terrifiant</tag>
+    </tagList>
+    <attack>Toucher fantomatique</attack>
+    <damage>d6 dégâts</damage>
+    <hp>16</hp>
+    <armor>0</armor>
+    <attackTagList>
+        <tag>Proche</tag>
+        <tag>Allonge</tag>
+    </attackTagList>
+    <qualityList>
+        <quality>Immatériel</quality>
+    </qualityList>
+    <description>Toutes les cultures vous disent la même chose. Vous vivez, vous aimez ou vous haïssez, vous gagnez ou perdez, vous mourez d'une manière que vous n'appréciez pas vraiment, et hop, vous voilà fantôme, plein d'amertume, de ressentiment et que sais-je encore. Quelques personnes le prennent à cœur, de braves gens au fond généreux qui cherchent les esprits tourmentés pour leur accorder le repos qu'ils méritent. Vous pouvez les trouver dans une taverne, la plupart du temps, noyant leurs cauchemars dans l'alcool, ou bien marmonnant et bavant dans la cellule capitonnée d'un asile. La mort prend son dû sur les vivants, peu importe la manière.</description>
+    <instinct>Hanter</instinct>
+    <moveList>
+        <move>Révéler la terrifiante nature de la mort</move>
+        <move>Hanter un lieu symbolique</move>
+        <move>Offrir une information venant de l'au-delà, à un certain prix</move>
+    </moveList>
+</monster>

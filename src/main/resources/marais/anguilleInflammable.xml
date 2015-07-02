@@ -1,0 +1,25 @@
+<monster>
+    <name>Anguille Inflammable</name>
+    <setting>Habitants du Marais</setting>
+    <tagList>
+        <tag>Horde</tag>
+        <tag>Minuscule</tag>
+    </tagList>
+    <attack>Toucher brûlant</attack>
+    <damage>d6-2 dégâts, ignore l'armure</damage>
+    <hp>3</hp>
+    <armor>0</armor>
+    <attackTagList>
+        <tag>Contact</tag>
+    </attackTagList>
+    <qualityList>
+        <quality>Huile inflammable</quality>
+        <quality>Aquatique</quality>
+    </qualityList>
+    <description>Ces étranges créatures ne sont pas plus grosses ni particulièrement plus malines que leurs cousines ordinaires. Elles partagent la même nature vicieuse. Leur seul avantage par rapport à ces dernières est le liquide huileux qui suinte de leur peau. Non seulement cela les rend plus dures à attraper, mais d'une seule torsion de leur corps oblong elles peuvent embraser cette substance, laissant des flaques d'huile enflammée à la surface de l'eau, carbonisant sans distinction prédateurs et proies. J'ai entendu dire que ces anguilles font une bonne base pour créer du matériel ignifugé, mais il faut d'abord réussir à mettre la main sur une de ces bêtes.</description>
+    <instinct>Embraser</instinct>
+    <moveList>
+        <move>Capturer quelque chose ou quelqu'un en train de brûler (même sous l'eau)</move>
+        <move>Dévorer une proie enflammée</move>
+    </moveList>
+</monster>

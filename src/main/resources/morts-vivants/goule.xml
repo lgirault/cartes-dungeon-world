@@ -1,0 +1,22 @@
+<monster>
+    <name>Goule</name>
+    <setting>Légion des Morts-Vivants</setting>
+    <tagList>
+        <tag>Groupe</tag>
+    </tagList>
+    <attack>Griffes</attack>
+    <damage>d8 dégâts, 1 perforant</damage>
+    <hp>10</hp>
+    <armor>1</armor>
+    <attackTagList>
+        <tag>Proche</tag>
+        <tag>Dévastateur</tag>
+    </attackTagList>
+    <description>Faim. Faim, faim, faim. Ventre vide. Désespérément. La faim abyssale.
+ Des griffes aiguisées pour lacérer la chair, des dents pour déchirer, briser les os, et sucer la moelle juteuse à l'intérieur. Vomir sa haine et hurler sa rage jalouse tout en chargeant sur deux jambes difformes, effrayer les vivants et parfumer leur chair de l'odeur de la peur. Festoyer. Paysan ou chevalier, sorcier, sage, prince ou prêtre font de si délicieux repas !</description>
+    <instinct>Manger</instinct>
+    <moveList>
+        <move>Dévorer un membre</move>
+        <move>Absorber les souvenirs de la viande ingérée</move>
+    </moveList>
+</monster>

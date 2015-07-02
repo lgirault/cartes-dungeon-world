@@ -1,0 +1,25 @@
+<monster>
+    <name>Loup-Nécrophage</name>
+    <setting>Légion des Morts-Vivants</setting>
+    <tagList>
+        <tag>Horde</tag>
+        <tag>Organisé</tag>
+        <tag>Intelligent</tag>
+    </tagList>
+    <attack>Bond</attack>
+    <damage>d6+1 dégâts, 1 perforant</damage>
+    <hp>7</hp>
+    <armor>1</armor>
+    <attackTagList>
+        <tag>Proche</tag>
+    </attackTagList>
+    <qualityList>
+        <quality>Forme d'ombre</quality>
+    </qualityList>
+    <description>Comme les ailes-de-nuit, le loup-nécrophage n'est pas originaire de notre monde. Se faufilant, on ne sait comment, à travers le Sombre Portail, ces esprits prennent la forme de chiens massifs ou de loups sombres qui chassent les vivants pour le sport. Ils voyagent en meute, guidés par un imposant mâle Alpha, mais partagent une intelligence que ne possèdent pas leurs équivalents canins. Leurs chasses nocturnes attirent parfois l'attention des morts-vivants capable d'intelligence (liches, vampires et autres) qui forment parfois des pactes avec l'Alpha et travaillent ensemble à l'accomplissement d'un noir dessein. Écoutez le cri de ralliement des chiens de la Mort et priez pour que ce hurlement ne vous soit pas destiné.</description>
+    <instinct>Chasser</instinct>
+    <moveList>
+        <move>Encercler leur proie</move>
+        <move>Rassembler la meute</move>
+    </moveList>
+</monster>

@@ -1,0 +1,30 @@
+<monster>
+    <name>Liche</name>
+    <setting>Légion des Morts-Vivants</setting>
+    <tagList>
+        <tag>Solitaire</tag>
+        <tag>Magique</tag>
+        <tag>Intelligent</tag>
+        <tag>Prudent</tag>
+        <tag>Thésauriseur</tag>
+        <tag>Construction</tag>
+    </tagList>
+    <attack>Missile magique</attack>
+    <damage>d10+3 dégâts, ignore l'armure</damage>
+    <hp>16</hp>
+    <armor>5</armor>
+    <attackTagList>
+        <tag>Courte</tag>
+        <tag>Longue</tag>
+    </attackTagList>
+    <description>"À la fin, ils vous donnent un parchemin et une médaille sertie de pierres précieuses pour commémorer vos prouesses.
+ Mon titre à l'époque était Grand Maître de l'Abjuration, si je me souviens bien. J'étais vieux, faible, rabougri et juste un peu trop sénile pour eux, ces crétins jaloux. À peine des apprentis qui se faisaient déjà appeler “Le Nouveau Conseil”. Ça me rend malade... enfin... ça me rendrait malade si c'était encore possible. Ils m'ont dit que c'était un honneur et qu'on se rappellerait de moi à jamais. C'était comme écouter sa propre oraison funèbre. Plutôt approprié, d'une certaine façon, vous ne trouvez pas ?
+ Ça m'a pris une dizaine d'année pour apprendre les bons rituels, encore quatre autres pour réunir les composants nécessaires et vous avez devant vous le fruit de mon labeur. Je perdure, je vis. Je verrai la fin de cet âge et le commencement d'un nouveau. Cela me peine beaucoup d'avoir à faire ça mais, voyez-vous, je ne peux pas vous permettre de mettre en danger toutes ces années de recherche. Quand vous rencontrerez la Mort, passez-lui le bonjour de ma part. "
+    </description>
+    <instinct>Poursuivre son existence contre nature.</instinct>
+    <moveList>
+        <move>Incanter un sortilège supérieur de mort ou de destruction</move>
+        <move>Activer un rituel ou un plan grandiose</move>
+        <move>Révéler des préparatifs ou un stratagème déjà accompli</move>
+    </moveList>
+</monster>

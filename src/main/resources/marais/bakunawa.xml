@@ -1,0 +1,29 @@
+<monster>
+    <name>Bakunawa</name>
+    <setting>Habitants du Marais</setting>
+    <tagList>
+        <tag>Solitaire</tag>
+        <tag>Grand</tag>
+        <tag>Intelligent</tag>
+        <tag>Dévastateur</tag>
+        <tag>Puissant</tag>
+    </tagList>
+    <attack>Morsure</attack>
+    <damage>d10+3 dégâts, 1 perforant</damage>
+    <hp>16</hp>
+    <armor>2</armor>
+    <attackTagList>
+        <tag>Proche</tag>
+        <tag>Allonge</tag>
+    </attackTagList>
+    <qualityList>
+        <quality>Amphibie</quality>
+    </qualityList>
+    <description>La gigantesque Reine-Serpent est la sœur du Dragon-Tortue : six mètres d'écailles et de muscles sinueux. On dit qu'elle s'éveille affamée lorsque les derniers rayons de soleil disparaissent à l'horizon. Les fortes lueurs dans la pénombre l'attirent et, comme tout serpent, la Bakunawa est perfide. Elle cherche tout d'abord à séduire et tromper, n'ayant recours à la violence que lorsqu'elle y est acculée. Mais quand elle s'y résout, sa morsure puissante peut briser en deux la coque de n'importe quel esquif voire même une ou deux cuirasses. Donnez vos trésors à ce serpent avide et, peut-être, vous épargnera-t-il.</description>
+    <instinct>Dévorer</instinct>
+    <moveList>
+        <move>Attirer ses proies par des mensonges et des illusions</move>
+        <move>Attaquer les sources lumineuses</move>
+        <move>Dévorer</move>
+    </moveList>
+</monster>

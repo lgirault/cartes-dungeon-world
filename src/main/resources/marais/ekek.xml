@@ -1,0 +1,23 @@
+<monster>
+    <name>Ekek</name>
+    <setting>Habitants du Marais</setting>
+    <tagList>
+        <tag>Horde</tag>
+    </tagList>
+    <attack>Serres</attack>
+    <damage>d6 dégâts</damage>
+    <hp>3</hp>
+    <armor>1</armor>
+    <attackTagList>
+        <tag>Proche</tag>
+    </attackTagList>
+    <qualityList>
+        <quality>Bras ailés</quality>
+    </qualityList>
+    <description>Ceux-là sont d'affreux hommes-oiseaux tout fripés. Jadis, ils furent, peut-être, un peuple d'anges venu de là-haut, mais ils se nourrissent désormais de rats qu'ils pêchent dans la boue des marécages avec leurs serres acérées et dévorent de leurs dents pointues. Ils comprennent les langues des hommes et des nains, mais la leur n'est qu'un charabia lorsqu'ils répètent les mots qu'ils entendent en ricanant. C'est un spectacle glaçant de voir une bête si proche à la fois de l'homme et de l'oiseau, sans être toutefois complètement l'un ou l'autre.</description>
+    <instinct>Agresser quelqu'un</instinct>
+    <moveList>
+        <move>Attaquer depuis les airs</move>
+        <move>Exécuter les ordres d'une créature plus puissante</move>
+    </moveList>
+</monster>

@@ -53,13 +53,13 @@ object Monster {
 
   val settingIcon = Map(
     "Habitants des Cavernes" -> "dung.png",
-    "Les Tréfonds" -> "lower.png" ,
+    "Tréfonds" -> "lower.png" ,
     "Expériences Contre Nature"-> "twisted.png",
     "Habitants du Royaume"-> "folks.png",
     "Hordes Voraces"-> "hordes.png",
     "Forces Planaires"-> "planar.png",
     "Habitants du Marais"-> "swamp.png",
-    "Légions des Morts-Vivants"-> "dead.png",
+    "Légion des Morts-Vivants"-> "dead.png",
     "Bois Obscurs"-> "woods.png"
   )
 

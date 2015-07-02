@@ -1,0 +1,21 @@
+<monster>
+    <name>Basilic</name>
+    <setting>Habitants du Marais</setting>
+    <tagList>
+        <tag>Solitaire</tag>
+        <tag>Thésauriseur</tag>
+    </tagList>
+    <attack>Morsure</attack>
+    <damage>d10 dégâts</damage>
+    <hp>12</hp>
+    <armor>2</armor>
+    <attackTagList>
+        <tag>Proche</tag>
+    </attackTagList>
+    <description>Peu ont vu un basilic et ont eu l'occasion de partager cette expérience. Vous comprenez ? Voir un basilic ? Ha, ha, un brin d'humour basilic. Désolé, je sais bien que vous êtes à la recherche d'un peu d'aide, messeigneurs, d'informations plus sérieuses que ça, je comprends bien. Le basilic, voyez-vous, même sans parler de sa capacité à vous transformer en bloc de granit, est une créature dangereuse. Ça tient du crapaud, avec des yeux globuleux et six pattes musclées pour bondir. Ça tient aussi de l'alligator, avec des dents aiguisées et une mâchoire puissante. C'est recouvert d'écailles en pierre et extrêmement coriace. Si vous voulez mon avis, évitez de vous y frotter.</description>
+    <instinct>Créer de nouvelles statues</instinct>
+    <moveList>
+        <move>Transformer la chair en pierre d'un regard</move>
+        <move>Se cacher dans un labyrinthe de roche</move>
+    </moveList>
+</monster>

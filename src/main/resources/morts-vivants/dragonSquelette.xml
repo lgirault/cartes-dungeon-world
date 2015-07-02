@@ -1,0 +1,21 @@
+<monster>
+    <name>Dragon-Squelette</name>
+    <setting>Légion des Morts-Vivants</setting>
+    <tagList>
+        <tag>Solitaire</tag>
+        <tag>Énorme</tag>
+    </tagList>
+    <attack>Morsure</attack>
+    <damage>d10+3 dégâts, 3 perforant</damage>
+    <hp>20</hp>
+    <armor>2</armor>
+    <attackTagList>
+        <tag>Allonge</tag>
+        <tag>Dévastateur</tag>
+    </attackTagList>
+    <description>Il existe un débat parmi les sorciers : cette créature est-elle vraiment un mort-vivant ou bien un golem fait d'un matériau aussi rare qu'impie ? Les os, tendons et écailles d'un dragon mort sont les composants de ce sombre automate. Ailé mais incapable de voler, à l'image des dragons mais sans le feu qui anime ces bêtes majestueuses, le dragon-squelette sert son maître avec un dévouement bizarre. Il est souvent lancé à l'assaut des fortifications d'un nécromancien rival. Il faut être particulièrement maléfique pour déformer et dénaturer de la sorte les restes d'un dragon.</description>
+    <instinct>Servir</instinct>
+    <moveList>
+        <move>Attaquer sans relâche</move>
+    </moveList>
+</monster>

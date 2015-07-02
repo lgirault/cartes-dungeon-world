@@ -1,0 +1,25 @@
+<monster>
+    <name>Draugr</name>
+    <setting>Légion des Morts-Vivants</setting>
+    <tagList>
+        <tag>Horde</tag>
+        <tag>Organisé</tag>
+    </tagList>
+    <attack>Ancienne épée rouillée</attack>
+    <damage>d6+1 dégâts</damage>
+    <hp>7</hp>
+    <armor>2</armor>
+    <attackTagList>
+        <tag>Proche</tag>
+        <tag>Allonge</tag>
+    </attackTagList>
+    <qualityList>
+        <quality>Toucher glacial</quality>
+    </qualityList>
+    <description>Dans le Noremark, les hommes et les femmes racontent, dans leurs grandes maisons de bois, lalégende de cet endroit où vont les héros tombés au combat. Un grand hall au sommet de la montagne où l'hydromel coule à flots et où les valeureux attendent la bataille finale pour la domination du monde. C'est un endroit magnifique où les guerriers espèrent aller après leur trépas. Mais qu'advient-il des morts sans honneur et sans gloire, tout guerriers qu'ils soient, qui succombent au poison ou à la traîtrise ? Le hall des festins leur est fermé et certains reviennent dans le monde des vivants, gelés, déformés et emplis d'une jalousie destructrice. Leur rage infinie ne s'abat pas contre les géants et les trolls, mais contre les cités et les villages des hommes qu'ils ont connus autrefois.</description>
+    <instinct>Prendre aux vivants</instinct>
+    <moveList>
+        <move>Glacer la chair</move>
+        <move>Faire appel aux morts déshonorés</move>
+    </moveList>
+</monster>

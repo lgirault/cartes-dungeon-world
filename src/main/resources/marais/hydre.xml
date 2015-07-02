@@ -1,0 +1,26 @@
+<monster>
+    <name>Hydre</name>
+    <setting>Habitants du Marais</setting>
+    <tagList>
+        <tag>Solitaire</tag>
+        <tag>Grand</tag>
+    </tagList>
+    <attack>Morsure</attack>
+    <damage>d10+3 dégâts</damage>
+    <hp>16</hp>
+    <armor>2</armor>
+    <attackTagList>
+        <tag>Proche</tag>
+        <tag>Allonge</tag>
+    </attackTagList>
+    <qualityList>
+        <quality>Nombreuses têtes</quality>
+        <quality>Ne peut être tuée que par un coup porté au cœur</quality>
+    </qualityList>
+    <description>Bien que dépourvue d'ailes, l'Hydre ressemble à un dragon. Ses têtes, au nombre de neuf à sa naissance, émergent d'un torse musculeux en un enchevêtrement serpentin. Une hydre est une vision terrifiante dans les marais. Les plus vieilles d'entre elles ont toutefois généralement plus de neufs têtes, chaque tentative échouée visant à les détruire les rendant plus puissantes. Ce qui ne vous tue pas vous rend plus fort. Dans le cas des hydres, tranchez leur une tête et deux repoussent aussitôt. Seul un coup puissant et précis au cœur de la bête peut achever une hydre. Ni le temps, ni la violence, ni la maladie, seul ce coup précis.</description>
+    <instinct>Croître en puissance</instinct>
+    <moveList>
+        <move>Attaquer plusieurs adversaires à la fois</move>
+        <move>Régénérer une partie de son anatomie (plus particulièrement une tête)</move>
+    </moveList>
+</monster>

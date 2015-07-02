@@ -1,0 +1,21 @@
+<monster>
+    <name>Sauropode</name>
+    <setting>Habitants du Marais</setting>
+    <attack>Piétinement</attack>
+    <damage>d10+5 dégâts</damage>
+    <hp>18</hp>
+    <armor>4</armor>
+    <attackTagList>
+        <tag>Allonge</tag>
+    </attackTagList>
+    <qualityList>
+        <quality>Corps recouvert d'une armure naturelle</quality>
+    </qualityList>
+    <description>Ces grandes créatures au pas lourd vivent dans des lieux oubliés depuis longtemps par les races intelligentes de ce monde. Paisibles si on les laisse tranquilles, elles peuvent piétiner ceux qui provoquent leur colère avec le même intérêt que l'on peut porter aux fourmis que l'on écrase sous nos bottes. Si vous voyez un de ces mastodontes, approchez-vous et observez-le avec émerveillement, mais n'attirez surtout pas son attention.</description>
+    <instinct>Encaisser</instinct>
+    <moveList>
+        <move>Ruer et charger</move>
+        <move>Renverser quelque chose</move>
+        <move>Émettre un rugissement assourdissant</move>
+    </moveList>
+</monster>

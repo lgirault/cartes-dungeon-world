@@ -1,0 +1,22 @@
+<monster>
+    <name>Mohrg</name>
+    <setting>Légion des Morts-Vivants</setting>
+    <tagList>
+        <tag>Groupe</tag>
+    </tagList>
+    <attack>Morsure</attack>
+    <damage>d8 dégâts</damage>
+    <hp>10</hp>
+    <armor>0</armor>
+    <attackTagList>
+        <tag>Proche</tag>
+    </attackTagList>
+    <description>Vous ne réussirez jamais à vous en sortir après unmeurtre. Vous échapperez peut-être à la loi deshommes, à votre propre conscience et mourrez, grassouillet et heureux, dans une villa.
+ Mais quand les Dieux eux-mêmes s'aperçoivent de vos méfaits, c'est là que votre chance tourne court et qu'un Mohrg naît. Les Mohrgs sont des squelettes. Leur chair, leur peau et leurs cheveux ont pourri et ne sont plus. À vrai dire, tout sauf leurs tripes. Elles sont nouées, tordues et s'échappent toujours de leur abdomen, préservées par magie et souvent enroulées, telles une étrange écharpe, autour de leur cou. Ils ne pensent pas à proprement parler, mais ils souffrent. Ils tuent, se déchaînent contre ce qui les entoure, et leur âme ne connaît jamais le repos. Tel est le châtiment conçu par les Dieux pour l'assassin lui-même, mais aussi pour le reste d'une humanité qui se trucide à qui mieux-mieux. Les Dieux sont justes et sévères.
+    </description>
+    <instinct>Causer des ravages</instinct>
+    <moveList>
+        <move>Laisser libre cours à sa rage</move>
+        <move>Agrandir sa collection de tripes</move>
+    </moveList>
+</monster>

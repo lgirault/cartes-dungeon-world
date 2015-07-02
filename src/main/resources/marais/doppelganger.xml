@@ -1,0 +1,26 @@
+<monster>
+    <name>Doppelgänger</name>
+    <setting>Habitants du Marais</setting>
+    <tagList>
+        <tag>Solitaire</tag>
+        <tag>Fourbe</tag>
+        <tag>Intelligent</tag>
+    </tagList>
+    <attack>Dague</attack>
+    <damage>d6 dégâts</damage>
+    <hp>12</hp>
+    <armor>0</armor>
+    <attackTagList>
+        <tag>Proche</tag>
+    </attackTagList>
+    <qualityList>
+        <quality>Métamorphose</quality>
+    </qualityList>
+    <description>L'aspect normal de ces créatures, s'il vous arrive de le voir un jour, est hideux. Un peu comme si elles avaient arrêté de prendre forme en cours de route, sans avoir choisi d'être elfes, humaines, ou naines. Mais peut-être est-ce leur manière d'être sans forme ni visage qui leur soit propre, simplement à la recherche d'un endroit où s'intégrer. Lorsque vous rentrez d'un périple, assurez-vous que vos amis sont bien ceux qu'ils prétendent être. L'un d'eux pourrait être un Doppelgänger, et votre ami un cadavre quelque part au fond d'un puits. Cela dit parfois, si vous considérez certains de vos amis, ce n'est peut-être pas plus mal.</description>
+    <instinct>S'infiltrer</instinct>
+    <moveList>
+        <move>Prendre la forme de ceux dont il a goûté la chair</move>
+        <move>Tirer un avantage de l'apparence de quelqu'un</move>
+        <move>Ruiner la réputation de quelqu'un</move>
+    </moveList>
+</monster>

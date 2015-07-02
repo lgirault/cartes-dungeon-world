@@ -1,0 +1,26 @@
+<monster>
+    <name>Troll</name>
+    <setting>Habitants du Marais</setting>
+    <tagList>
+        <tag>Solitaire</tag>
+        <tag>Grand</tag>
+    </tagList>
+    <attack>Gourdin</attack>
+    <damage>d10+3 dégâts</damage>
+    <hp>20</hp>
+    <armor>1</armor>
+    <attackTagList>
+        <tag>Proche</tag>
+        <tag>Allonge</tag>
+        <tag>Puissant</tag>
+    </attackTagList>
+    <qualityList>
+        <quality>Régénération</quality>
+    </qualityList>
+    <description>Grands. Vraiment grands. 2 à 3 mètres, lorsqu'ils sont jeunes ou faibles. Ils ont une peau épaisse et couverte de bubons, de grandes dents jaunâtres, des cheveux gras puant le moisi et de longs ongles crasseux. Certains sont verts, d'autres grisâtres, d'autres encore noirs. Ils sont organisés en petits clans, et peuvent rarement supporter la présence de leurs congénères, encore moins celle du reste d'entre nous. Impossible à tuer, à moins d'avoir du feu ou de l'acide sous le coude. Tranchez-leur un membre et observez si vous ne me croyez pas. Quelques jours après, vous aurez deux trolls là où vous n'en aviez qu'un. Vous vous en doutez, là est le problème.</description>
+    <instinct>Écrabouiller</instinct>
+    <moveList>
+        <move>Annuler les effets d'une attaque (à moins que les dégâts ne soient causés par le feu ou l'acide, au choix du MJ)</move>
+        <move>Balancer quelque chose ou quelqu'un</move>
+    </moveList>
+</monster>

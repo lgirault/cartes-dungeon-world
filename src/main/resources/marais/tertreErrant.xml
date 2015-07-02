@@ -1,0 +1,28 @@
+<monster>
+    <name>Tertre Errant</name>
+    <setting>Habitants du Marais</setting>
+    <tagList>
+        <tag>Solitaire</tag>
+        <tag>Grand</tag>
+        <tag>Magique</tag>
+    </tagList>
+    <attack>Fouet de racines</attack>
+    <damage>d10+1 dégâts</damage>
+    <hp>23</hp>
+    <armor>1</armor>
+    <attackTagList>
+        <tag>Proche</tag>
+        <tag>Allonge</tag>
+        <tag>Puissant</tag>
+    </attackTagList>
+    <qualityList>
+        <quality>Ne faire qu'un avec le marais</quality>
+    </qualityList>
+    <description>Certains élémentaires sont invoqués dans des cercles magiques tracés à la craie. La plupart, en fait. On en a même fait une science. D'autres, par contre, ne sont pas vraiment classables car ils ne tombent sous aucune de ces catégories soigneusement ordonnées comme le feu, l'air, l'eau ou la terre. Ceux-là sont des amalgames naturels de racines, de tourbe et de moisissure. Ils ne réfléchissent pas comme nous. On ne peut pas les comprendre comme quiconque comprend un elfe. Ils ne font qu'exister. Esprits du marais, errant dans la boue.</description>
+    <instinct>Créer et préserver les marais</instinct>
+    <moveList>
+        <move>Invoquer le marais lui-même à son aide</move>
+        <move>Fusionner et se fondre dans le marais</move>
+        <move>Se reformer en prenant un nouvel aspect</move>
+    </moveList>
+</monster>

@@ -1,0 +1,27 @@
+<monster>
+    <name>Dragon-Tortue</name>
+    <setting>Habitants du Marais</setting>
+    <tagList>
+        <tag>Solitaire</tag>
+        <tag>Énorme</tag>
+        <tag>Prudent</tag>
+    </tagList>
+    <attack>Morsure</attack>
+    <damage>d10+3 dégâts</damage>
+    <hp>20</hp>
+    <armor>4</armor>
+    <attackTagList>
+        <tag>Allonge</tag>
+    </attackTagList>
+    <qualityList>
+        <quality>Carapace</quality>
+        <quality>Amphibie</quality>
+    </qualityList>
+    <description>Bakunawa a un frère. Alors qu'elle est irascible et vénale, lui est calme et inébranlable. Elle est une lame, lui un bouclier. Une tortue énorme, vautrée dans un bourbier durant des siècles, de la boue sur sa carapace, voire même des arbres et des arbustes. Parfois, un clan de gobelins paumés s'y installe, y construit ses huttes et y prépare ses repas minables. La mâchoire du Dragon-Tortue a peut-être la lenteur d'un glacier mais elle peut éventrer les remparts d'un château. Attention où vous mettez les pieds.</description>
+    <instinct>Résister au changement</instinct>
+    <moveList>
+        <move>Marcher droit devant implacablement</move>
+        <move>User de tout son poids sur quelque chose ou quelqu'un</move>
+        <move>Pulvériser infrastructures et bâtiments</move>
+    </moveList>
+</monster>

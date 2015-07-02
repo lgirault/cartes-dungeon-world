@@ -1,0 +1,25 @@
+<monster>
+    <name>Dévoreur</name>
+    <setting>Légion des Morts-Vivants</setting>
+    <tagList>
+        <tag>Solitaire</tag>
+        <tag>Grand</tag>
+        <tag>Intelligent</tag>
+        <tag>Thésauriseur</tag>
+    </tagList>
+    <attack>Percussion</attack>
+    <damage>d10+3 dégâts</damage>
+    <hp>16</hp>
+    <armor>1</armor>
+    <attackTagList>
+        <tag>Proche</tag>
+        <tag>Allonge</tag>
+        <tag>Puissant</tag>
+    </attackTagList>
+    <description>La plupart des gens savent que les morts-vivants se nourrissent de chair qui, tout comme la chaleur et le sang épais, prolonge leur existence maudite. C'est vrai pour la plupart des morts sans esprit, animés par la magie noire. Mais pas vraiment pour le dévoreur d'âme. Quand une personne particulièrement mauvaise (souvent un manipulateur de foules, un prêtre impie ou autre...) trépasse d'une manière singulièrement atroce, les sombres forces de notre univers peuvent les ramener à un semblant de vie. Le dévoreur, cependant, ne se nourrit pas de la chair vivante des hommes ou des elfes, mais d'âmes. Seuls des médiums peuvent ressentir le plaisir qu'il prend à tuer. Au moment où sa victime rend son dernier souffle, le dévoreur l'absorbe , ainsi que son âme, comme un homme qui se noie inspire sa dernière goulée d'air. Que devient l'âme lorsqu'elle est absorbée par ces créatures ? Personne n'ose poser la question de peur de trouver la réponse.</description>
+    <instinct>Se régaler d'âmes</instinct>
+    <moveList>
+        <move>Dévorer ou emprisonner une âme mourante</move>
+        <move>Marchander le retour d'une âme captive</move>
+    </moveList>
+</monster>

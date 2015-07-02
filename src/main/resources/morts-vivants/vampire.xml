@@ -1,0 +1,29 @@
+<monster>
+    <name>Vampire</name>
+    <setting>Légion des Morts-Vivants</setting>
+    <tagList>
+        <tag>Groupe</tag>
+        <tag>Furtif</tag>
+        <tag>Organisé</tag>
+        <tag>Intelligent</tag>
+    </tagList>
+    <attack>Force surnaturelle</attack>
+    <damage>d8+5 dégâts, 1 perforant</damage>
+    <hp>10</hp>
+    <armor>2</armor>
+    <attackTagList>
+        <tag>Proche</tag>
+        <tag>Puissant</tag>
+    </attackTagList>
+    <qualityList>
+        <quality>Changer de forme, esprit d'un autre temps</quality>
+    </qualityList>
+    <description>Nous les craignons car ils nous attirent. Si proches de nous, ou de ce que nous aimerions être : beaux, passionnés et puissants. Ils sont attirés par nous pour ce qu'ils ne sont pas : chauds, aimables et vivants.
+ Ces âmes tourmentées ne peuvent espérer, au mieux, que partager leur malédiction. À chaque fois qu'ils se nourrissent, ils prennent le risque de passer cette torture éternelle à un autre. En chaque vampire survit l'étincelle viciée de son créateur. Les vampires engendrent des vampires, la souffrance engendre la souffrance. Ne soyez pas séduits ou vous pourriez vous voir offrir un présent : une couronne d'ombres et les chaînes pesantes d'un deuil éternel.</description>
+    <instinct>Manipuler</instinct>
+    <moveList>
+        <move>Charmer quelqu'un</move>
+        <move>Se repaître de son sang</move>
+        <move>Battre en retraite pour mieux planifier</move>
+    </moveList>
+</monster>

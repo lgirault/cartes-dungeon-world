@@ -1,0 +1,27 @@
+<monster>
+    <name>Coutal</name>
+    <setting>Habitants du Marais</setting>
+    <tagList>
+        <tag>Solitaire</tag>
+        <tag>Intelligent</tag>
+        <tag>Fourbe</tag>
+    </tagList>
+    <attack>Rayon de lumière</attack>
+    <damage>d8 dégâts, ignore l'armure</damage>
+    <hp>12</hp>
+    <armor>2</armor>
+    <attackTagList>
+        <tag>Proche</tag>
+    </attackTagList>
+    <qualityList>
+        <quality>Ailé</quality>
+        <quality>Halo</quality>
+    </qualityList>
+    <description>Comme un défi lancé au visage du déclin et de la noirceur de ce monde, les Dieux ont créé le Coutal. Comme pour déclarer : "Voyez, même dans ce monde sinistre, la beauté existe. " Tels des serpents suspendus dans les airs par de fines ailes serties de diamants, ces magnifiques créatures luisent d'une douce clarté, semblable aux rayons du soleil à travers un vitrail. Intelligent, sage et calme, un Coutal sait de nombreuses choses, et en discerne d'autant plus. Vous pourriez peut-être marchander avec l'un d'eux, en échange d'une faveur particulière. Ils cherchent à assainir et purifier ces ténèbres pour faire de notre monde un endroit meilleur. Ils sont hélas peu nombreux. Les Dieux sont cruels.</description>
+    <instinct>Purifier</instinct>
+    <moveList>
+        <move>Juger la valeur d'une personne ou d'un lieu</move>
+        <move>Invoquer la puissance divine pour purifier</move>
+        <move>Marchander des informations en échange d'une faveur</move>
+    </moveList>
+</monster>

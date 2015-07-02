@@ -1,0 +1,25 @@
+<monster>
+    <name>Homme-Grenouille</name>
+    <setting>Habitants du Marais</setting>
+    <tagList>
+        <tag>Horde</tag>
+        <tag>Petit</tag>
+        <tag>Intelligent</tag>
+    </tagList>
+    <attack>Lance</attack>
+    <damage>d6 dégâts</damage>
+    <hp>7</hp>
+    <armor>1</armor>
+    <attackTagList>
+        <tag>Proche</tag>
+    </attackTagList>
+    <qualityList>
+        <quality>Amphibie</quality>
+    </qualityList>
+    <description>Croââ, croââ, croââ. De petits nabots couverts de verrues. Sûrement la blague douteuse d'un quelconque sorcier ou d'une divinité mineure. Ils tiennent sur deux jambes, vêtus d'habits dépareillés, volés quelque part, et se réunissent en conseil dans leurs petits villages grenouillesques. Ils parlent un patois rocailleux semblable au langage des hommes et sont toujours en guerre avec leurs voisins. Ils sont avares, cupides et stupides, mais toutefois suffisamment malins pour savoir se défendre correctement. Certains disent aussi que leurs prêtres sont remarquablement doués dans l'art de la guérison. Ou peut-être sont-ils juste vraiment, vraiment, dur au mal.</description>
+    <instinct>Faire la guerre</instinct>
+    <moveList>
+        <move>Lancer un assaut amphibie</move>
+        <move>Guérir à une vitesse prodigieuse</move>
+    </moveList>
+</monster>

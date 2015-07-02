@@ -1,0 +1,27 @@
+<monster>
+    <name>Homme-Lézard</name>
+    <setting>Habitants du Marais</setting>
+    <tagList>
+        <tag>Groupe</tag>
+        <tag>Furtif</tag>
+        <tag>Intelligent</tag>
+        <tag>Organisé</tag>
+    </tagList>
+    <attack>Lance</attack>
+    <damage>d8 dégâts</damage>
+    <hp>6</hp>
+    <armor>2</armor>
+    <attackTagList>
+        <tag>Proche</tag>
+        <tag>Allonge</tag>
+    </attackTagList>
+    <qualityList>
+        <quality>Amphibie</quality>
+    </qualityList>
+    <description>Un mage itinérant m'a dit une fois que les hommes-lézards étaient déjà présent avant que les humains n'existent. Qu'une race de fiers Rois-Lézards parcourait la terre avant que les elfes, les nains et les hommes aient même construit leur première hutte en torchis. Qu'ils vivaient dans des palais d'or et de cristal, et vénéraient leurs propres dieux reptiliens. Peut-être est-ce la vérité, peut-être pas. À présent, ils demeurent dans des endroits depuis longtemps abandonnés et oubliés des hommes, fabriquent leur équipement dans l'obsidienne volcanique et attaquent les créations du monde civilisé. Peut-être veulent-ils seulement récupérer ce qu'ils ont perdu.</description>
+    <instinct>Détruire la civilisation</instinct>
+    <moveList>
+        <move>Tendre des embuscades</move>
+        <move>Lancer un assaut amphibie</move>
+    </moveList>
+</monster>

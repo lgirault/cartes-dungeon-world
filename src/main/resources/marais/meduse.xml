@@ -1,0 +1,29 @@
+<monster>
+    <name>Méduse</name>
+    <setting>Habitants du Marais</setting>
+    <tagList>
+        <tag>Solitaire</tag>
+        <tag>Fourbe</tag>
+        <tag>Intelligent</tag>
+        <tag>Thésauriseur</tag>
+    </tagList>
+    <attack>Griffes</attack>
+    <damage>d6 dégâts</damage>
+    <hp>12</hp>
+    <armor>0</armor>
+    <attackTagList>
+        <tag>Proche</tag>
+    </attackTagList>
+    <qualityList>
+        <quality>Son regard transforme la chair en pierre</quality>
+    </qualityList>
+    <description>Les méduses sont les descendants d'une créature aux cheveux serpentins, qui les enfante depuis la nuit des temps pour perpétuer sa légende à travers les âges. Les méduses se terrent non loin des endroits civilisés, attirant les pauvres gens avec des promesses de beauté et de richesses infinies. Grandes amatrices d'art, les méduses conservent d'étranges collections de leurs victimes, figées pour l'éternité dans des expressions d'agonie ou d'extase. Savoir qu'elles auront été la dernière vision de si nombreuses personnes satisfait leur vanité.
+ Arrogantes, fières et mauvaises, elles recherchent, comme beaucoup d'autres, mais à leur façon, un entourage permanent.
+    </description>
+    <instinct>Collectionner</instinct>
+    <moveList>
+        <move>Pétrifier une partie d'un corps d'un seul regard</move>
+        <move>Attirer le regard d'une personne</move>
+        <move>Un spectacle d'une beauté terrifiante</move>
+    </moveList>
+</monster>

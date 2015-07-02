@@ -1,0 +1,26 @@
+<monster>
+    <name>Sigben</name>
+    <setting>Légion des Morts-Vivants</setting>
+    <tagList>
+        <tag>Horde</tag>
+        <tag>Grand</tag>
+        <tag>Construction</tag>
+    </tagList>
+    <attack>Coups de queue</attack>
+    <damage>d6+1 dégâts</damage>
+    <hp>11</hp>
+    <armor>2</armor>
+    <attackTagList>
+        <tag>Proche</tag>
+        <tag>Allonge</tag>
+    </attackTagList>
+    <qualityList>
+        <quality>Mignon vampirique</quality>
+    </qualityList>
+    <description>Chiens-goules à queue de fouet au service desvampires, ces horribles créatures ont une gueulesemblable à celle d'un rat ou d'un crocodile avec de la fourrure et des dents aiguisées. Ils ont desailes atrophiées qu'ils ne peuvent utiliser, deux jambes difformes et une longue queue en formede fouet, garnie de protubérances empoisonnées. Stupides, rancuniers et retors, ils répandent le chaos autour d'eux, une fois libérés des étranges jarres en argile dans lesquelles ils naissent. Seul un vampire pourrait éprouver de l'amour pour une de ces créatures damnées.</description>
+    <instinct>Déranger</instinct>
+    <moveList>
+        <move>Empoisonner</move>
+        <move>Accomplir la volonté d'un vampire</move>
+    </moveList>
+</monster>

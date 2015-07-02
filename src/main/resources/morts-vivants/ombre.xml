@@ -1,0 +1,27 @@
+<monster>
+    <name>Ombre</name>
+    <setting>Légion des Morts-Vivants</setting>
+    <tagList>
+        <tag>Horde</tag>
+        <tag>Grand</tag>
+        <tag>Magique</tag>
+        <tag>Construction</tag>
+    </tagList>
+    <attack>Toucher d'ombre</attack>
+    <damage>d6+1 dégâts</damage>
+    <hp>11</hp>
+    <armor>4</armor>
+    <attackTagList>
+        <tag>Proche</tag>
+        <tag>Allonge</tag>
+    </attackTagList>
+    <qualityList>
+        <quality>Forme d'ombre</quality>
+    </qualityList>
+    <description>Nous invoquons les éléments. Nous invoquons le feu, brûlant à jamais. Nous invoquons l'eau, source de vie. Nous invoquons la terre, stable et solide. Nous invoquons l'air, éternellement changeant. Nous reconnaissons la valeur de ces éléments et les remercions mais, ce soir, il n'est pas besoin d'eux. Ce soir nous invoquons la Nuit. Ombre, nous t'appelons. Messager de la Mort et noir assassin, nous faisons de toi un des nôtres. Accepte notre sacrifice, et accomplis notre volonté jusqu'aux premières lueurs de l'aube.</description>
+    <instinct>Assombrir</instinct>
+    <moveList>
+        <move>Étouffer la lumière</move>
+        <move>Invoquer une nouvelle ombre depuis un cadavre</move>
+    </moveList>
+</monster>

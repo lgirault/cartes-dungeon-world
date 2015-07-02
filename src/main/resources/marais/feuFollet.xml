@@ -1,0 +1,26 @@
+<monster>
+    <name>Feu Follet</name>
+    <setting>Habitants du Marais</setting>
+    <tagList>
+        <tag>Solitaire</tag>
+        <tag>Minuscule</tag>
+        <tag>Magique</tag>
+    </tagList>
+    <attack>Rayon de lumière</attack>
+    <damage>p[2d8-2] dégâts</damage>
+    <hp>12</hp>
+    <armor>0</armor>
+    <attackTagList>
+        <tag>Courte</tag>
+    </attackTagList>
+    <qualityList>
+        <quality>Corps lumineux</quality>
+    </qualityList>
+    <description>Voyageur perdu dans le marais, vous repérez une lumière flottant dans les ténèbres, une lueur scintillante. L'espoir ! Vous tentez de lui faire signe, mais il n'y a aucune réponse. La lumière commence à s'évanouir, et vous tentez de la rejoindre, pataugeant péniblement dans la vase dans l'espoir d'être guidé vers un havre de paix, vous épuisant dans cette vaine poursuite. Ces tristes histoires finissent toujours mal. Ces créatures sont un véritable mystère : certains disent quelles sont les esprits des morts, d'autres des incarnations de pure lumière féerique.
+ Personne ne connaît la vérité. Elles sont cruelles, ça c'est sûr. Tout le monde s'accorde sur ce point.</description>
+    <instinct>Égarer</instinct>
+    <moveList>
+        <move>Guider quelqu'un sur le mauvais chemin</move>
+        <move>Emmener quelqu'un au pire endroit possible</move>
+    </moveList>
+</monster>

@@ -1,0 +1,27 @@
+<monster>
+    <name>Banshee</name>
+    <setting>Légion des Morts-Vivants</setting>
+    <tagList>
+        <tag>Solitaire</tag>
+        <tag>Magique</tag>
+        <tag>Intelligent</tag>
+    </tagList>
+    <attack>Hurlement</attack>
+    <damage>d10 dégâts</damage>
+    <hp>16</hp>
+    <armor>0</armor>
+    <attackTagList>
+        <tag>Courte</tag>
+    </attackTagList>
+    <qualityList>
+        <quality>Immatériel</quality>
+    </qualityList>
+    <description>Si vous vous tirez d'une rencontre avec l'un de ces esprits vengeurs affligé d'une simple surdité, estimez-vous chanceux de pouvoir vivre le reste de votre silencieuse existence. Souvent confondue au premier regard avec un fantôme ou autre esprit errant, la Banshee révèle un bien dangereux don pour l'agression auditive lorsqu'elle est provoquée. Et il ne faut pas grand- chose pour éveiller sa colère. Victime d'une trahison (souvent par un être aimé), la Banshee communique son amertume par une plainte ou un hurlement qui peut putréfier les chairs et détruire les sens. Si vous parvenez à l'aider à se venger, elle pourrait bien vous récompenser. Reste à savoir si l'affection d'un esprit éconduit est particulièrement souhaitable...
+    </description>
+    <instinct>Obtenir sa revanche</instinct>
+    <moveList>
+        <move>Noyer tout autre son dans un hurlement incessant</move>
+        <move>Pousser un cri capable de fendre un crâne en deux</move>
+        <move>Disparaître dans la brume</move>
+    </moveList>
+</monster>

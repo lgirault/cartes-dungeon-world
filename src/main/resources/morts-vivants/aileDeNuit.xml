@@ -1,0 +1,24 @@
+<monster>
+    <name>Aile-De-Nuit</name>
+    <setting>Légion des Morts-Vivants</setting>
+    <tagList>
+        <tag>Horde</tag>
+        <tag>Furtif</tag>
+    </tagList>
+    <attack>Lacération</attack>
+    <damage>d6 dégâts</damage>
+    <hp>7</hp>
+    <armor>1</armor>
+    <attackTagList>
+        <tag>Proche</tag>
+    </attackTagList>
+    <qualityList>
+        <quality>Ailé</quality>
+    </qualityList>
+    <description>Les érudits versés dans les arts nécromantiques vous diront que le terme " mort- vivant " ne s'applique pas uniquement à ceux qui ont vécu, sont morts et ont été ramenés à une sorte de semi-vie. C'est aussi l'appellation appropriée pour toutes les créatures qui vivent par- delà le Sombre Portail. Les humains nomment ces créatures, ailes-de-nuit. Elles tirent leur puissance de l'énergie négative du domaine de la Mort. Prenant la forme de créatures ailées, massives et silencieuses (certaines proches de la chauve-souris, d'autres du vautour, d'autres encore de choses plus anciennes, au cuir sombre et épais), les ailes-de-nuit voyagent en nuées prédatrices, plongeant soudainement pour dépecer le bétail, les chevaux ou les paysans malchanceux, restés dehors malgré le couvre-feu. Guettez le ciel nocturne à l'affût de leurs yeux rouges. Tendez l'oreille pour entendre leur hululement strident. Et priez les Dieux d'avoir un abri sous lequel vous cacher jusqu'à ce qu'ils soient au loin.</description>
+    <instinct>Chasser</instinct>
+    <moveList>
+        <move>Attaquer depuis les airs sous le ciel nocturne</move>
+        <move>S'enfuir avec sa proie dans un battement d'ailes</move>
+    </moveList>
+</monster>

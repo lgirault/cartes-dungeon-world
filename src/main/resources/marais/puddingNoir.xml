@@ -1,0 +1,24 @@
+<monster>
+    <name>Pudding Noir</name>
+    <setting>Habitants du Marais</setting>
+    <tagList>
+        <tag>Solitaire</tag>
+        <tag>Informe</tag>
+    </tagList>
+    <attack>Toucher corrosif</attack>
+    <damage>d10 dégâts, ignore l'armure</damage>
+    <hp>15</hp>
+    <armor>1</armor>
+    <attackTagList>
+        <tag>Proche</tag>
+    </attackTagList>
+    <qualityList>
+        <quality>Informe</quality>
+    </qualityList>
+    <description>Comment tuer un tas de gelée ? Une immensepile de matière gluante et spongieuse qui n'aapparemment pour seul but que de vous dissoudreet vous digérer lentement ? C'est une très bonne question. Une question à laquelle je n'ai pas de réponse. Prévenez-moi quand vous trouverez.</description>
+    <instinct>Dissoudre</instinct>
+    <moveList>
+        <move>Ronger le bois, le métal ou les chairs</move>
+        <move>Suinter et dégouliner dans un endroit incommodant (nourriture, armure, estomac...)</move>
+    </moveList>
+</monster>

@@ -1,0 +1,24 @@
+<monster>
+    <name>Momie</name>
+    <setting>Légion des Morts-Vivants</setting>
+    <tagList>
+        <tag>Solitaire</tag>
+        <tag>Divin</tag>
+        <tag>Thésauriseur</tag>
+    </tagList>
+    <attack>Coup</attack>
+    <damage>d10+2 dégâts</damage>
+    <hp>16</hp>
+    <armor>1</armor>
+    <attackTagList>
+        <tag>Proche</tag>
+    </attackTagList>
+    <description>"Il existe des cultures qui révèrent leurs morts. Ilsne les enterrent pas dans la terre glaciale en pleurantleur trépas. Ces gens passent des semaines entièresà préparer le corps sacré du disparu pour son reposéternel. Des temples, des pyramides et de grandscaveaux de pierre sont construits pour abriter leur dépouille et sont emplis d'esclaves, d'animaux et d'or. Il vaut mieux vivre couvert de richesses une fois franchi le Sombre Portail, non ? Oh, je connais trop bien ce regard avide, mais surtout ne vous laissez pas tenter par les richesses de ces tombeaux. Tenez compte de mon avertissement ou subissez un destin terrible, car les morts n'aiment pas être dérangés. Le pillage et le vol ne feront qu'éveiller leur colère. Et ne dites pas que je ne vous ai pas prévenu !"
+    </description>
+    <instinct>Profiter du repos éternel</instinct>
+    <moveList>
+        <move>Maudire</move>
+        <move>Emprisonner dans des bandages</move>
+        <move>Se relever à nouveau d'entre les morts</move>
+    </moveList>
+</monster>

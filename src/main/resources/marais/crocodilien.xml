@@ -1,0 +1,27 @@
+<monster>
+    <name>Crocodilien</name>
+    <setting>Habitants du Marais</setting>
+    <tagList>
+        <tag>Groupe</tag>
+        <tag>Grand</tag>
+    </tagList>
+    <attack>Morsure</attack>
+    <damage>d8+3 dégâts</damage>
+    <hp>10</hp>
+    <armor>2</armor>
+    <attackTagList>
+        <tag>Proche</tag>
+        <tag>Allonge</tag>
+    </attackTagList>
+    <qualityList>
+        <quality>Amphibie</quality>
+        <quality>Camouflage</quality>
+    </qualityList>
+    <description>C'est un énorme crocodile. Vraiment énorme.</description>
+    <instinct>Manger</instinct>
+    <moveList>
+        <move>Attaquer une proie au dépourvu</move>
+        <move>Disparaître dans l'eau</move>
+        <move>Serrer quelque chose ou quelqu'un entre ses mâchoires puissantes</move>
+    </moveList>
+</monster>

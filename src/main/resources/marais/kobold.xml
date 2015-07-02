@@ -1,0 +1,29 @@
+<monster>
+    <name>Kobold</name>
+    <setting>Habitants du Marais</setting>
+    <tagList>
+        <tag>Horde</tag>
+        <tag>Petit</tag>
+        <tag>Furtif</tag>
+        <tag>Intelligent</tag>
+        <tag>Organisé</tag>
+    </tagList>
+    <attack>Lance</attack>
+    <damage>d6 dégâts</damage>
+    <hp>3</hp>
+    <armor>1</armor>
+    <attackTagList>
+        <tag>Proche</tag>
+        <tag>Allonge</tag>
+    </attackTagList>
+    <qualityList>
+        <quality>Lien avec les dragons</quality>
+    </qualityList>
+    <description>Certains n'hésiteront pas à faire l'amalgame entre ces petits hommes-dragon au faciès de rongeur et les gobelins, orcs, gobelours et autres hobgobelins. En vérité ils sont plus malins que leurs cousins éloignés. Les kobolds sont assujettis aux dragons. Ils étaient, dans des temps plus anciens, leurs gardiens du savoir ou serviteurs-sorciers. Leurs clans, avec des noms comme " Écailles d'acier ", " Griffe Noire ", gravitent autour d'un dragon qu'ils servent et dont ils accomplissent le moindre souhait. Apercevoir un kobold signifie que d'autres ne sont pas loin; et si un groupe de kobold est présent, vous pouvez être sûr qu'un puissant dragon se trouve là lui aussi.</description>
+    <instinct>Servir les dragons</instinct>
+    <moveList>
+        <move>Préparer un piège</move>
+        <move>Faire appel aux dragons ou à des alliés draconiens</move>
+        <move>Battre en retraite et se regrouper</move>
+    </moveList>
+</monster>

@@ -1,0 +1,30 @@
+<monster>
+    <name>Abomination</name>
+    <setting>Légion des Morts-Vivants</setting>
+    <tagList>
+        <tag>Solitaire</tag>
+        <tag>Grand</tag>
+        <tag>Construction</tag>
+        <tag>Terrifiant</tag>
+    </tagList>
+    <attack>Grande baffe</attack>
+    <damage>d10+3 dégâts</damage>
+    <hp>20</hp>
+    <armor>1</armor>
+    <attackTagList>
+        <tag>Proche</tag>
+        <tag>Allonge</tag>
+        <tag>Puissant</tag>
+    </attackTagList>
+    <qualityList>
+        <quality> De nombreux membres, têtes, et autres appendices</quality>
+    </qualityList>
+    <description>Des corps cousus à d'autres corps forment la majeure partie de ces masses titubantes saturées de magie noire. La plupart des morts-vivants sont créés dans le but d'être contrôlés, avec un objectif, comme construire une tour ou encore servir de gardiens.
+ Pas les abominations. Le dernier stade du rituel, destiné à enflammer leurs membres infernaux, fait appel à une haine si puissante que les abominations n'ont plus qu'un seul but : démanteler et détruire la seule chose qu'ils ne pourront jamais avoir, la vie.
+ De nombreux étudiants en magie noire l'apprennent à leurs dépens et à leur grand désarroi, la principale caractéristique de ces colosses étant qu'ils ne connaissent pas de maître.</description>
+    <instinct>Mettre fin à toute vie</instinct>
+    <moveList>
+        <move>Lacérer la chair</move>
+        <move>Vomir leurs tripes putréfiées</move>
+    </moveList>
+</monster>
